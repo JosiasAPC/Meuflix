@@ -1,0 +1,24 @@
+{
+  "name": "meuflix",
+  "version": "1.0.0",
+  "description": "Meuflix is ​​a program created from scratch to imitate Netflix with the sole purpose of learning.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosiasAPC/Meuflix.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JosiasAPC/Meuflix/issues"
+  },
+  "homepage": "https://github.com/JosiasAPC/Meuflix#readme",
+  "dependencies": {
+    "next": "^15.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
